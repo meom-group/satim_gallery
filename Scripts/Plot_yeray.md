@@ -1,3 +1,8 @@
+---
+layout: page
+title: Script Yeray
+---
+
 # The script Yeray designed to produce his beautiful map
 
 - first he did that
