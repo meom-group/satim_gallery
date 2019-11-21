@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coursework
+title: Script Yeray
 ---
 
 # The script Yeray designed to produce his beautiful map
