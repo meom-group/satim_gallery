@@ -1,3 +1,6 @@
+
+## To see the publsihed website, it's there: [https://meom-group.github.io/satim_gallery](https://meom-group.github.io/satim_gallery)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/meom-group/satim_gallery/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
