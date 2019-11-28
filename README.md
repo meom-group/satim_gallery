@@ -1,5 +1,5 @@
 
-## To see the publsihed website, it's there: [https://meom-group.github.io/satim_gallery](https://meom-group.github.io/satim_gallery)
+## To see the published website, it's there: [https://meom-group.github.io/satim_gallery](https://meom-group.github.io/satim_gallery)
 
 ## Welcome to GitHub Pages
 
